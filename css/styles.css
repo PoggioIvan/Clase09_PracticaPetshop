@@ -52,6 +52,7 @@
   margin-top: 50px;
   text-align: center;
   margin-bottom: 0px;
+  font-family: 'Times New Roman', Times, serif;
 }
 
 .foto-fondo{
@@ -67,6 +68,7 @@
   position: relative;
   text-align: center;
   padding-top: 40px;
+  font-family: 'Times New Roman', Times, serif;
 }
 
 .texto-en-foto2{
@@ -74,12 +76,15 @@
   background-color:#F0A83E;
   position: relative;
   font-size: 20px;
-  margin-left: 710px;
+  margin-left: 680px;
   margin-top: 15px;
   text-align: center;
   width: max-content;
   text-transform: uppercase;
+  font-family: 'Times New Roman', Times, serif;
 }
+
+/* body */
 
 .productos{
   font-weight: bold;
@@ -93,3 +98,105 @@
   color:#F0A83E;
   padding-top: 15px;
 }
+
+/* prefooter */
+
+.prefooter{
+  position: relative;
+  width: 100% ;
+  height: 520px ;
+  background-color: #3C2313;
+}
+
+.foto1{
+  position: relative;
+  right: 1090px;
+  top: 90px;
+  height: 80px;
+}
+
+.titulo1{
+  position: relative;
+  font-weight: bold;
+  font-size:40px ;
+  left: 223px;
+  color: white;
+  top: 50px;
+}
+.subtitulo1{
+  position: relative;
+  font-size: 20px;
+  color: white;
+  left: 47px;
+  top: 90px;
+}
+
+.foto2{
+  position: relative;
+  right: 1175px;
+  top: 240px;
+  height:80px;
+}
+
+.titulo2{
+  position: relative;
+  font-weight: bold;
+  font-size:40px ;
+  color: white;
+  top: 200px;
+  right: 100px;
+  
+}
+
+.subtitulo2{
+  position: relative;
+  font-size: 20px;
+  color: white;
+  right: 265px;
+  top: 240px;
+}
+
+.foto3{
+  position: relative;
+  right: 1258px;
+  top:390px;
+  height:80px;
+}
+
+.titulo3{
+  position: relative;
+  font-weight: bold;
+  font-size:40px ;
+  color: white;
+  top: 350px;
+  right: 448px;
+  
+}
+
+.subtitulo3{
+  position: relative;
+  font-size: 20px;
+  color: white;
+  right: 789px;
+  top: 390px;
+}
+
+/* logo */
+
+.logo2{
+  position: absolute;
+  font-weight: bold;
+  color:#F0A83E;
+  font-size: 40px;
+  top: 265px;
+  left:1000px ;
+}
+
+.texto-logo-bottom{
+  color: white;
+}
+.foto-gato{
+  width: 35px;
+  height: 35px;
+}
+
